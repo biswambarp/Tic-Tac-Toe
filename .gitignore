@@ -10,9 +10,8 @@
 
 # production
 /build
-/.idea/workspace.xml
-*.xml
-*.iml
+.idea/workspace.xml
+.idea/Tic-Tac-Toe.iml
 # misc
 .DS_Store
 .env.local
